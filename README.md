@@ -5,7 +5,7 @@ Python script that tackles the problem of Duplicate Product Detection!
 
 ### Prerequisites
 
-    Python 3.6, numoy 1.13.3, pandas 0.23.0, Spacy 2.0.11
+    Python 3.6, numpy 1.13.3, pandas 0.23.0, Spacy 2.0.11
     
 ### Dataset
 
