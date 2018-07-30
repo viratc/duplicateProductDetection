@@ -19,4 +19,4 @@ The Problem Statement & the dataset can be referred [here](https://huew.blob.cor
     * duplicateProducts.json: This JSON file contains the Dictionary with a Product ID as key and list of tuples
                               of Duplicate Product ID as value. This is the generated after running the script on 50 products.
                               
-_NOTE: Although I ran the script only on 50 products, it does scale to cover all the Products in the give dataset._                               
+_NOTE: Although I ran the script only on 50 products, it does scale to cover all the Products in the given dataset._                               
